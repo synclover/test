@@ -11,6 +11,8 @@ regular paragraph.
 The quick brown fox jumped over the lazy
 dog's back.
 
+![alt text](http://farm3.static.flickr.com/2447/3819315719_c5bdb068ff.jpg "Title")
+
 ### Header 3
 
 > This is a blockquote.
